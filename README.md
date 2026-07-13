@@ -12,7 +12,7 @@
 ---
 
 ## 🛠️ 기술 스택 (Tech Stacks)
-> 파이썬,자바,c,네트워크구조
+>   파이썬,자바,c,네트워크구조
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
